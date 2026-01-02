@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poncel1968
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python, JS , Node
-- 💞️ I’am looking to collaborate on all project I can do it (backend)
+- 🌱 I’m currently learning Python
+- 💞️ I’am looking to collaborate on all project I can do it (backend) on C language
 - 📫 How to reach me ...
 
 <!---
